@@ -2,7 +2,7 @@
 
 # Update and install required packages
 sudo apt-get update
-sudo apt-get install -y musl-tools gcc-multilib protobuf-compiler
+sudo apt-get install -y musl-tools gcc-multilib protobuf-compiler pkg-config
 
 # Install Rust SGX tools
 cargo install fortanix-sgx-tools
