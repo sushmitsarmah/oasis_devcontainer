@@ -6,7 +6,7 @@ Description of your project.
 
 You can open this project in a GitHub Codespace by clicking the button below:
 
-[![Open in Codespace](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?template_repository=https://github.com/sushmitsarmah/oasis_devcontainer)
+[![Open in Codespace](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new)
 
 ## Setup
 
