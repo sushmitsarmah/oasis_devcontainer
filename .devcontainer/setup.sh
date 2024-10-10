@@ -2,7 +2,7 @@
 
 # Update and install required packages
 sudo apt-get update
-sudo apt-get install -y musl-tools gcc-multilib protobuf-compiler pkg-config
+sudo apt install -y musl-tools bubblewrap gcc g++ gcc-multilib libclang-dev clang protobuf-compiler make cmake libssl-dev libseccomp-dev pkg-config
 
 # Install Rust SGX tools
 cargo install fortanix-sgx-tools
